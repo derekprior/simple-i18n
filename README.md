@@ -30,7 +30,7 @@ with the original library.
 ## Tests
 
 The tests are written in QUnit because that is what my team had chosen to
-standardize on. I personally prefer Jasmine.
+standardize on. I personally prefer Jasmine. Load runner.html to run the tests.
 
 The tests rely on some some AJAX fixtures that I did not stub out. This means
 you will have to run them on some server environment or otherwise work around
